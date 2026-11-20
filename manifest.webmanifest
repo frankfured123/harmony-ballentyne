@@ -1,0 +1,17 @@
+{
+  "name": "Service Qld",
+  "short_name": "Service Qld",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0857AD",
+  "theme_color": "#0857AD",
+  "icons": [
+    {
+      "src": "img/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
